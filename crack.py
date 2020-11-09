@@ -564,7 +564,7 @@ def mbf():
 
     elif f == "2":
 
-         os.system("xdg-open https://github.com/Yayan-XD/Cr4ck")
+         os.system("xdg-open https://duniaakode.blogspot.com/2020/11/cara-mendapatkan-cookies-facebook.html?m=1")
 
          balik()
 
