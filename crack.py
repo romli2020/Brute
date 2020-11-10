@@ -42,7 +42,7 @@ def baner():
 
     print('\033[37;1m[\033[44;1m DEVELOPER DUNIA KODE \033[00;1m\033[37;1m]\n')
 
-def ulang():
+def balik():
 
     f=input("\t[\033[41;1mTekan Enter Untuk Kembali\033[00;1m]")
 
